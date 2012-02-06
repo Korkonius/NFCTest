@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hold phone near a tag to scan it!</string>
+    <string name="app_name">Skyss Ticket Scanner</string>
+    <string name="tagText">When a tag is discovered its id will be added here</string>
+
+</resources>
